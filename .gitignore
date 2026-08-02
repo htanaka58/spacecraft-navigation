@@ -1,0 +1,20 @@
+# Python virtual environment
+.venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# VS Code local settings
+.vscode/
+
+# macOS files
+.DS_Store
+
+# Trained models
+models/
+*.zip
+
+# Videos and generated output
+videos/
+logs/
